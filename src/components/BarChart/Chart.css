@@ -1,0 +1,20 @@
+.chart-container {
+  padding-bottom: 48px;
+}
+
+.chart-wrapper {
+  box-sizing: border-box;
+  overflow: visible;
+}
+
+.bar {
+  fill: #008080;
+  stroke: #008080;
+  stroke-width: 2px;
+  fill-opacity: 0.2;
+}
+
+.axis {
+  stroke: #fff;
+  shape-rendering: crispEdges;
+}

@@ -1,38 +1,42 @@
-.App {
+@font-face {
+  font-family: "Open Sans", sans-serif;
+  src: url("../public/fonts/OpenSans.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Star Jedi";
+  src: url("../public/fonts/Starjhol.ttf") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  background-color: #1c1c1c;
+  color: #fff;
+  font: 16px "Open Sans";
+  height: 100%;
   text-align: center;
+  padding: 4px;
+  margin: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.app-header {
+  font: 32px "Star Jedi";
+  color: #f6be00;
+  text-shadow: 0 0 5px #f6be00, 0 0 5px #f6be00, 0 0 5px #f6be00;
+  text-align: center;
+  font-weight: normal;
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  transition: all 0.8s;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1 {
+  font: 24px sans-serif;
+  color: #f6be00;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.chart-container {
+  margin: 24px 0;
 }
