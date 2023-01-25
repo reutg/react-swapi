@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.47d9e9d2.css",
-    "main.js": "/static/js/main.3ffd577b.js",
-    "static/js/787.d36936fe.chunk.js": "/static/js/787.d36936fe.chunk.js",
-    "static/media/OpenSans.ttf": "/static/media/OpenSans.f72efa639bb45d29e62f.ttf",
-    "static/media/Starjhol.ttf": "/static/media/Starjhol.c247ee6825d52f9d0862.ttf",
-    "index.html": "/index.html",
-    "main.47d9e9d2.css.map": "/static/css/main.47d9e9d2.css.map",
-    "main.3ffd577b.js.map": "/static/js/main.3ffd577b.js.map",
-    "787.d36936fe.chunk.js.map": "/static/js/787.d36936fe.chunk.js.map"
+    "main.css": "/react-swapi/static/css/main.85fd64bd.css",
+    "main.js": "/react-swapi/static/js/main.4e1d7320.js",
+    "static/js/787.d36936fe.chunk.js": "/react-swapi/static/js/787.d36936fe.chunk.js",
+    "static/media/OpenSans.ttf": "/react-swapi/static/media/OpenSans.f72efa639bb45d29e62f.ttf",
+    "static/media/Starjhol.ttf": "/react-swapi/static/media/Starjhol.c247ee6825d52f9d0862.ttf",
+    "index.html": "/react-swapi/index.html",
+    "main.85fd64bd.css.map": "/react-swapi/static/css/main.85fd64bd.css.map",
+    "main.4e1d7320.js.map": "/react-swapi/static/js/main.4e1d7320.js.map",
+    "787.d36936fe.chunk.js.map": "/react-swapi/static/js/787.d36936fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47d9e9d2.css",
-    "static/js/main.3ffd577b.js"
+    "static/css/main.85fd64bd.css",
+    "static/js/main.4e1d7320.js"
   ]
 }
